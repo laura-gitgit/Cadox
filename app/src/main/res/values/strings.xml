@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Cadox</string>
+    <string name="label_desc_article">Description de l\'article</string>
+    <string name="euro">€</string>
+    <string name="ray_ban_rb_4259_601_19_51_20">RAY-BAN RB 4259 601/19 51/20</string>
+    <string name="des_lunettes_de_soleil">Des lunettes de soleil</string>
+    <string name="detail_d_un_article">DETAIL D\'UN ARTICLE</string>
+    <string name="_01_09_2023">01/09/2023</string>
+</resources>
